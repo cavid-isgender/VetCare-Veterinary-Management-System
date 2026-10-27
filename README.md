@@ -109,6 +109,25 @@ The project demonstrates:
 - Database triggers for order-item validation, product stock updates, order-total updates, and appointment-date validation
 - Browser-based operations and database reports
 
+## Screenshots
+
+### Application Interface
+![VetCare Home](docs/screenshots/home.png)
+
+### Products Page
+![Products Page](docs/screenshots/products.png)
+
+### Database Trigger Test
+![Trigger Test](docs/screenshots/trigger-test.png)
+
+### SQL Functions
+![Sql Functions](docs/screenshots/sql_functions.png)
+
+### Views Page
+![Products Page](docs/screenshots/views.png)
+
+
+
 ## Notes
 
 - The exact environment variables and database initialization steps depend on the current contents of `db.py`; adjust this README if those settings differ.
